@@ -1,0 +1,11 @@
+C:\Users\Olka\AppData\Local\Temporary Projects\NoSQL\bin\Debug\NoSQL.exe
+C:\Users\Olka\AppData\Local\Temporary Projects\NoSQL\bin\Debug\NoSQL.pdb
+C:\Users\Olka\AppData\Local\Temporary Projects\NoSQL\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Olka\AppData\Local\Temporary Projects\NoSQL\obj\x86\Debug\NoSQL.exe
+C:\Users\Olka\AppData\Local\Temporary Projects\NoSQL\obj\x86\Debug\NoSQL.pdb
+C:\Users\Olka\documents\visual studio 2010\Projects\NoSQL\NoSQL\obj\x86\Debug\NoSQL.exe
+C:\Users\Olka\documents\visual studio 2010\Projects\NoSQL\NoSQL\obj\x86\Debug\NoSQL.pdb
+C:\Users\Olka\documents\visual studio 2010\Projects\NoSQL\NoSQL\bin\Debug\NoSQL.exe
+C:\Users\Olka\documents\visual studio 2010\Projects\NoSQL\NoSQL\bin\Debug\NoSQL.pdb
+C:\Users\Olka\documents\visual studio 2010\Projects\NoSQL\NoSQL\bin\Debug\MongoDB.dll
+C:\Users\Olka\documents\visual studio 2010\Projects\NoSQL\NoSQL\obj\x86\Debug\ResolveAssemblyReference.cache
