@@ -1,0 +1,223 @@
+
+        {
+            'nazwa_waluty':'bat (Tajlandia)',
+            'przelicznik':'1',
+            'kod_waluty':'THB',
+            'kurs_sredni':'0,1089'
+        },
+        {
+            'nazwa_waluty':'dolar amerykañski',
+            'przelicznik':'2',
+            'kod_waluty':'USD',
+            'kurs_sredni':'3,4194'
+        },
+        {
+            'nazwa_waluty':'dolar australijski',
+            'przelicznik':'2',
+            'kod_waluty':'AUD',
+            'kurs_sredni':'3,3983'
+        },
+        {
+            'nazwa_waluty':'dolar Hongkongu',
+            'przelicznik':'1',
+            'kod_waluty':'HKD',
+            'kurs_sredni':'0,4402'
+        },
+        {
+            'nazwa_waluty':'dolar kanadyjski',
+            'przelicznik':'1',
+            'kod_waluty':'CAD',
+            'kurs_sredni':'3,3792'
+        },
+        {
+            'nazwa_waluty':'dolar nowozelandzki',
+            'przelicznik':'1',
+            'kod_waluty':'NZD',
+            'kurs_sredni':'2,6176'
+        },
+        {
+            'nazwa_waluty':'dolar singapurski',
+            'przelicznik':'1',
+            'kod_waluty':'SGD',
+            'kurs_sredni':'2,7037'
+        },
+        {
+            'nazwa_waluty':'euro',
+            'przelicznik':'1',
+            'kod_waluty':'EUR',
+            'kurs_sredni':'4,3490'
+        },
+        {
+            'nazwa_waluty':'forint (Wêgry)',
+            'przelicznik':'100',
+            'kod_waluty':'HUF',
+            'kurs_sredni':'1,4684'
+        },
+        {
+            'nazwa_waluty':'frank szwajcarski',
+            'przelicznik':'2',
+            'kod_waluty':'CHF',
+            'kurs_sredni':'3,6210'
+        },
+        {
+            'nazwa_waluty':'funt szterling',
+            'przelicznik':'1',
+            'kod_waluty':'GBP',
+            'kurs_sredni':'5,4342'
+        },
+        {
+            'nazwa_waluty':'hrywna (Ukraina)',
+            'przelicznik':'1',
+            'kod_waluty':'UAH',
+            'kurs_sredni':'0,4245'
+        },
+        {
+            'nazwa_waluty':'jen (Japonia)',
+            'przelicznik':'100',
+            'kod_waluty':'JPY',
+            'kurs_sredni':'4,2556'
+        },
+        {
+            'nazwa_waluty':'korona czeska',
+            'przelicznik':'1',
+            'kod_waluty':'CZK',
+            'kurs_sredni':'0,1706'
+        },
+        {
+            'nazwa_waluty':'korona duñska',
+            'przelicznik':'2',
+            'kod_waluty':'DKK',
+            'kurs_sredni':'0,5851'
+        },
+        {
+            'nazwa_waluty':'korona islandzka',
+            'przelicznik':'100',
+            'kod_waluty':'ISK',
+            'kurs_sredni':'2,6766'
+        },
+        {
+            'nazwa_waluty':'korona norweska',
+            'przelicznik':'1',
+            'kod_waluty':'NOK',
+            'kurs_sredni':'0,5740'
+        },
+        {
+            'nazwa_waluty':'korona szwedzka',
+            'przelicznik':'1',
+            'kod_waluty':'SEK',
+            'kurs_sredni':'0,4772'
+        },
+        {
+            'nazwa_waluty':'kuna chorwacka',
+            'przelicznik':'1',
+            'kod_waluty':'HRK',
+            'kurs_sredni':'0,5758'
+        },
+        {
+            'nazwa_waluty':'lej rumuñski',
+            'przelicznik':'1',
+            'kod_waluty':'RON',
+            'kurs_sredni':'0,9785'
+        },
+        {
+            'nazwa_waluty':'lew bu³garski',
+            'przelicznik':'2',
+            'kod_waluty':'BGN',
+            'kurs_sredni':'2,2236'
+        },
+        {
+            'nazwa_waluty':'lira turecka',
+            'przelicznik':'1',
+            'kod_waluty':'TRY',
+            'kurs_sredni':'1,8784'
+        },
+        {
+            'nazwa_waluty':'lit litewski',
+            'przelicznik':'1',
+            'kod_waluty':'LTL',
+            'kurs_sredni':'1,2595'
+        },
+        {
+            'nazwa_waluty':'³at ³otewski',
+            'przelicznik':'1',
+            'kod_waluty':'LVL',
+            'kurs_sredni':'6,2316'
+        },
+        {
+            'nazwa_waluty':'nowy izraelski szekel',
+            'przelicznik':'1',
+            'kod_waluty':'ILS',
+            'kurs_sredni':'0,8938'
+        },
+        {
+            'nazwa_waluty':'peso chilijskie',
+            'przelicznik':'100',
+            'kod_waluty':'CLP',
+            'kurs_sredni':'0,6801'
+        },
+        {
+            'nazwa_waluty':'peso filipinskie',
+            'przelicznik':'1',
+            'kod_waluty':'PHP',
+            'kurs_sredni':'0,0796'
+        },
+        {
+            'nazwa_waluty':'peso meksykañskie',
+            'przelicznik':'1',
+            'kod_waluty':'MXN',
+            'kurs_sredni':'0,2487'
+        },
+        {
+            'nazwa_waluty':'rand (RPA)',
+            'przelicznik':'2',
+            'kod_waluty':'ZAR',
+            'kurs_sredni':'0,4127'
+        },
+        {
+            'nazwa_waluty':'real brazylijski',
+            'przelicznik':'1',
+            'kod_waluty':'BRL',
+            'kurs_sredni':'1,7093'
+        },
+        {
+            'nazwa_waluty':'ringgit malezyjski',
+            'przelicznik':'1',
+            'kod_waluty':'MYR',
+            'kurs_sredni':'1,0994'
+        },
+        {
+            'nazwa_waluty':'rubel rosyjski',
+            'przelicznik':'1',
+            'kod_waluty':'RUB',
+            'kurs_sredni':'0,1103'
+        },
+        {
+            'nazwa_waluty':'rupia (Indonezja)',
+            'przelicznik':'10000',
+            'kod_waluty':'IDR',
+            'kurs_sredni':'3,6483'
+        },
+        {
+            'nazwa_waluty':'rupia indyjska',
+            'przelicznik':'100',
+            'kod_waluty':'INR',
+            'kurs_sredni':'6,2786'
+        },
+        {
+            'nazwa_waluty':'won (Korea Po³udniowa)',
+            'przelicznik':'100',
+            'kod_waluty':'KRW',
+            'kurs_sredni':'0,2937'
+        },
+        {
+            'nazwa_waluty':'yuan renminbi (Chiny)',
+            'przelicznik':'1',
+            'kod_waluty':'CNY',
+            'kurs_sredni':'0,5405'
+        },
+        {
+            'nazwa_waluty':'SDR (MFW)',
+            'przelicznik':'2',
+            'kod_waluty':'XDR',
+            'kurs_sredni':'5,2058'
+        }
