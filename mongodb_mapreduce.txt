@@ -1,0 +1,11 @@
+m = function() {emit(this.KursSredni,1)}; 
+
+r = function(key, values) {
+	var sum = 0;
+	for (var i=0; i<values.length; i++){
+		sum += values[i];}
+	return sum;
+}
+
+res = db.waluty.mapReduce(m,r,{out: "inline : 1"});
+db[res.result].find()
